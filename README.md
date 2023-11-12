@@ -16,6 +16,10 @@ This is the repository for the 3D Vision course ('23-24).
    This will automatically generate the entire project, link dependencies and set up paths;
 4. In Visual Studio go to Build > Build All. This will build the whole project.
    After this last point, you can run the script and make any modifications neccesary.
+   The entire project structure should be accesable via VS Solution Explorer.
+6. All .cpp files should be in the /src folder and all hpp files should be in /include folder. All are already connected to main.cpp.
+
+Happy coding!!!
 
 
 ### Usage: To be added later
