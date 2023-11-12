@@ -29,8 +29,8 @@ echo.
 echo. 
 echo.
 echo.
-echo  Downloading OpenCV, please wait. Expected file size: ~ 174000000 (174 MB).
-echo  ^Copyright: deeman (20203547), Liverpool Hope University, 2024  
+echo  Downloading OpenCV, please wait. Expected file size: ~ 176000000 (176 MB).
+echo  ^Copyright: Liverpool Hope University, 2024 - Denis M, Bryan M, Harrison L
 
 :: Download OpenCV using PowerShell
 echo.
@@ -72,7 +72,8 @@ IF EXIST "%scriptPath%libs\%eigenFileName%" (
 )
 
 echo  Setup completed. Visual Studio script should now have all dependencies in place.
-echo This message will self-destruct 10 seconds...
+echo.  
+echo  This message will self-destruct 10 seconds...
 timeout /t 10 /nobreak
 :: End of script
 ENDLOCAL
