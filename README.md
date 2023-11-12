@@ -22,6 +22,6 @@ This is the repository for the 3D Vision course ('23-24).
 ### Credits: Denis Manolescu, Bryan Mutinda, Harrison Liddell
 Contributing: NA
 
-### *italic* Developed for 3D Vision coursework @Prof Dr Pedro Cavestany
+### Developed for 3D Vision coursework @Prof Dr Pedro Cavestany
 
 License: LHU 2023
