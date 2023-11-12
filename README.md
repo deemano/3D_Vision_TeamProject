@@ -2,9 +2,9 @@
 
 This is the repository for the 3D Vision course ('23-24).
 
-# Project Title: 3D_Vision_TeamProject
+# Project Title: 3D Vision TeamProject
 
-## ===================================
+## -------------------------------------
 
 ## Description: To be added later ...
 
