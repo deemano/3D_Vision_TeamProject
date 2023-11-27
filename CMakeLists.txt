@@ -23,13 +23,14 @@ include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include)
 message(STATUS "Setting the working directory to: ${CMAKE_SOURCE_DIR}")
 add_executable(${PROJECT_NAME} 
     src/main.cpp
+    src/camera_calibration.cpp
     src/feature_extraction.cpp
     src/feature_matching.cpp
     src/planar_pose_estimation.cpp
     src/ransac.cpp
     src/other.cpp
     # ... and so on for other .cpp files
-)
+ "include/common.h")
 
 # Link libraries
 target_link_libraries(${PROJECT_NAME} ${OpenCV_LIBS})
